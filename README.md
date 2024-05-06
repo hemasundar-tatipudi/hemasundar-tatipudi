@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,7 +65,6 @@
 
 </body>
 </html>
-```
 
 
 
