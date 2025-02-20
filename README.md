@@ -39,21 +39,21 @@
 
 <h2>🛠️ Projects</h2>
 
-#### **📌 COVIDStat Visualizer**
+<h3>📌 COVIDStat Visualizer</h3>
 🚀 Developed an **interactive web tool** for visualizing **COVID-19 statistics** across EU/EEA.  
 - Integrated **ECDC data** to create **dynamic dashboards**.  
 - Built with **React.js, D3.js, and Python** for seamless data visualization.  
 - Features: Choropleth maps, line charts, and bar graphs with **filters & animations**.  
 🔗 [Project Link](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
 
-#### **📌 StockWave - Dynamic Stock Forecasting**
+<h3>📌 StockWave - Dynamic Stock Forecasting</h3>
 📈 Built an **LSTM-based stock prediction** system using **Apache Spark**.  
 - **Feature engineering** with **EMA, RSI** to enhance accuracy.  
 - Interactive **GUI** for **real-time visualization & model retraining**.  
 - Evaluated models with **MSE, RMSE, and R² score**.  
 🔗 Repo coming soon!
 
-#### **📌 Book Store - Web Application**
+<h3>📌 Book Store - Web Application</h3>
 📚 Developed a **full-stack web app** for book sales & management.  
 - **User authentication** with secure **login & registration**.  
 - **Search & filter** features for book browsing.  
