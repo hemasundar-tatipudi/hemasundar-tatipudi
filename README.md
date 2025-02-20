@@ -1,10 +1,7 @@
 ## 👋 Hi, I'm HemaSundar Tatipudi!
 
-💻 **Computer Science Enthusiast | Full-Stack Developer | Salesforce Expert**  
-
-🔹 Passionate about **clean code**, **high-performance solutions**, and **data-driven insights**.  
-🔹 2+ years of experience in **Salesforce development** & full-stack projects.  
-🔹 Master's student at **University of Utah**, specializing in **Machine Learning, Data Science, and Security**.  
+💻 **Computer Science Enthusiast | Software Developer | Salesforce Expert**  
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/findmehere-hs/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/hemasundar-tatipudi)
@@ -75,12 +72,10 @@
 ---
 
 <h2>📧 Let's Connect!</h2>
-📧 **Email:** hemasundarhs53@gmail.com  
-🌍 **GitHub:** [github.com/hemasundar-tatipudi](https://github.com/hemasundar-tatipudi)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="hs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="hs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [github]: https://github.com/hemasundar-tatipudi/
 [linkedin]: https://www.linkedin.com/in/findmehere-hs/ 
