@@ -11,7 +11,7 @@
 
 ---
 
-### 🔧 Tech Stack & Skills  
+<h2>🔧 Tech Stack & Skills</h2>
 
 #### **Languages**  
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠️ Projects
+<h2>🛠️ Projects</h2>
 
 #### **📌 COVIDStat Visualizer**
 🚀 Developed an **interactive web tool** for visualizing **COVID-19 statistics** across EU/EEA.  
@@ -62,13 +62,13 @@
 
 ---
 
-### 🏆 Certifications
+<h2>🏆 Certifications</h2>
 ✔️ **Salesforce Certified Administrator (SCA)** [🔗 Verification](https://trailhead.salesforce.com/credentials/verification)  
 ✔️ **Salesforce Certified Platform Developer 1** [🔗 Verification](https://trailhead.salesforce.com/credentials/verification)  
 
 ---
 
-### 📧 Let's Connect!  
+<h2>📧 Let's Connect!</h2>
 📧 **Email:** hemasundarhs53@gmail.com  
 🌍 **GitHub:** [github.com/hemasundar-tatipudi](https://github.com/hemasundar-tatipudi)  
 💼 **LinkedIn:** [linkedin.com/in/findmehere-hs/](https://www.linkedin.com/in/findmehere-hs/)  
