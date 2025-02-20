@@ -40,17 +40,19 @@
 <h2>🛠️ Projects</h2>
 
 <h3>📌 COVIDStat Visualizer</h3>
-🚀 Developed an **interactive web tool** for visualizing **COVID-19 statistics** across EU/EEA.  
-- Integrated **ECDC data** to create **dynamic dashboards**.  
-- Built with **React.js, D3.js, and Python** for seamless data visualization.  
-- Features: Choropleth maps, line charts, and bar graphs with **filters & animations**.  
+🚀 Developed an <b>interactive web tool</b> for visualizing <b>COVID-19 statistics</b> across EU/EEA.
+<ul>
+  <li>Integrated **<b>ECDC data</b> to create <b>dynamic dashboards</b>.</li>
+  <li>Built with <b>React.js, D3.js, and Python</b> for seamless data visualization.</li>
+  <li>Features: Choropleth maps, line charts, and bar graphs with <b>filters & animations</b>.</li>
+</ul>
 🔗 [Project Link](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
 
 <h3>📌 StockWave - Dynamic Stock Forecasting</h3>
-📈 Built an **LSTM-based stock prediction** system using **Apache Spark**.  
-- **Feature engineering** with **EMA, RSI** to enhance accuracy.  
-- Interactive **GUI** for **real-time visualization & model retraining**.  
-- Evaluated models with **MSE, RMSE, and R² score**.  
+📈 Built an <b>LSTM-based stock prediction</b> system using <b>Apache Spark</b>.  
+- <b>Feature engineering</b> with <b>EMA, RSI</b> to enhance accuracy.  
+- Interactive <b>GUI</b> for <b>real-time visualization & model retraining</b>.  
+- Evaluated models with <b>MSE, RMSE, and R² score</b>.  
 🔗 Repo coming soon!
 
 <h3>📌 Book Store - Web Application</h3>
