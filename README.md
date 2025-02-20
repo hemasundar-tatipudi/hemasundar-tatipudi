@@ -76,8 +76,10 @@
 
 <h2>📧 Let's Connect!</h2>
 📧 **Email:** hemasundarhs53@gmail.com  
-🌍 **GitHub:** [github.com/hemasundar-tatipudi](https://github.com/hemasundar-tatipudi)  
-💼 ![linkedin]: linkedin.com/in/findmehere-hs/  
+🌍 **GitHub:** [github.com/hemasundar-tatipudi](https://github.com/hemasundar-tatipudi)
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+💼 [linkedin]: linkedin.com/in/findmehere-hs/  
 
 
 
