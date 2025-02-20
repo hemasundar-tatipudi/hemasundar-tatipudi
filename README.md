@@ -46,21 +46,25 @@
   <li>Built with <b>React.js, D3.js, and Python</b> for seamless data visualization.</li>
   <li>Features: Choropleth maps, line charts, and bar graphs with <b>filters & animations</b>.</li>
 </ul>
-🔗 [Project Link](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
+<p>🔗 [Project Link](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)</p>
 
 <h3>📌 StockWave - Dynamic Stock Forecasting</h3>
-📈 Built an <b>LSTM-based stock prediction</b> system using <b>Apache Spark</b>.  
-- <b>Feature engineering</b> with <b>EMA, RSI</b> to enhance accuracy.  
-- Interactive <b>GUI</b> for <b>real-time visualization & model retraining</b>.  
-- Evaluated models with <b>MSE, RMSE, and R² score</b>.  
-🔗 Repo coming soon!
+📈 Built an <b>LSTM-based stock prediction</b> system using <b>Apache Spark</b>.
+<ul>
+  <li><b>Feature engineering</b> with <b>EMA, RSI</b> to enhance accuracy.</li>
+  <li>Interactive <b>GUI</b> for <b>real-time visualization & model retraining</b>.</li>
+  <li>Evaluated models with <b>MSE, RMSE, and R² score</b>.</li>
+</ul>
+<p>🔗 Repo coming soon!</p>
 
 <h3>📌 Book Store - Web Application</h3>
-📚 Developed a **full-stack web app** for book sales & management.  
-- **User authentication** with secure **login & registration**.  
-- **Search & filter** features for book browsing.  
-- **Tech Stack:** HTML, CSS, JavaScript, **React.js**.  
-🔗 Repo coming soon!
+📚 Developed a <b>full-stack web app</b> for book sales & management.
+<ul>
+  <li><b>User authentication</b> with secure <b>login & registration</b>.</li>
+  <li><b>Search & filter</b> features for book browsing.</li>
+  <li><b>Tech Stack:</b> HTML, CSS, JavaScript, <b>React.js</b>.</li>
+</ul>
+<p>🔗 Repo coming soon!</p>
 
 ---
 
