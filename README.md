@@ -77,7 +77,7 @@
 <h2>📧 Let's Connect!</h2>
 📧 **Email:** hemasundarhs53@gmail.com  
 🌍 **GitHub:** [github.com/hemasundar-tatipudi](https://github.com/hemasundar-tatipudi)  
-💼 [linkedin]: linkedin.com/in/findmehere-hs/  
+💼 ![linkedin]: linkedin.com/in/findmehere-hs/  
 
 
 
