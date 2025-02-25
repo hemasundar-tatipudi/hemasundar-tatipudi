@@ -58,14 +58,6 @@
 <hr>
 
 <h2>📧 Let's Connect!</h2>
-<style>
-    .social-icons img {
-        transition: transform 0.3s ease-in-out;
-    }
-    .social-icons img:hover {
-        transform: scale(1.2);
-    }
-</style>
 <p class="social-icons">
 <a href="https://github.com/hemasundar-tatipudi/"><img align="left" alt="GitHub" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/findmehere-hs/"><img align="left" alt="LinkedIn" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/linkedin.svg" /></a>
