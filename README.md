@@ -73,9 +73,9 @@
 
 <h2>📧 Let's Connect!</h2>
 
-[<img align="left" alt="GitHub" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/github.svg" />][github]
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/gmail.svg" />][gmail]
+[<img align="left" alt="GitHub" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/gmail.svg" />][gmail]
 
 [github]: https://github.com/hemasundar-tatipudi/
 [linkedin]: https://www.linkedin.com/in/findmehere-hs/ 
