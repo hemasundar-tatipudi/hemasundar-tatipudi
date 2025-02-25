@@ -38,7 +38,7 @@
 
 <h2>🛠️ Projects</h2>
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <h3>📊 COVIDStat Visualizer</h3>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <h3>📈 StockWave - Dynamic Stock Forecasting</h3>
@@ -70,7 +70,7 @@
   </tr>
 </table>
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <h3>📚 Book Store - Web Application</h3>
