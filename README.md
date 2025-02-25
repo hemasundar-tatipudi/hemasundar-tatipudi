@@ -73,8 +73,8 @@
 
 <h2>📧 Let's Connect!</h2>
 
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][github]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/gmail.svg" />][gmail]
 
 [github]: https://github.com/hemasundar-tatipudi/
