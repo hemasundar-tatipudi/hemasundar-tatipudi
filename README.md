@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A1E0&lines=Hi,+I'm+HemaSundar+Tatipudi!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A1E0&lines=Hi,+I'm+HemaSundar+Tatipudi!&repeat=false" />
 </h2>
 
 <p>💻 <strong>Computer Science Enthusiast | Software Developer | Salesforce Expert</strong></p>
