@@ -49,8 +49,8 @@
 <table>
   <tr>
     <td>
-      <h3>📌 COVIDStat Visualizer</h3>
-      <p>🚀 Developed an <strong>interactive web tool</strong> for visualizing <strong>COVID-19 statistics</strong> across EU/EEA.</p>
+      <h3>COVIDStat Visualizer</h3>
+      <p>📊 Developed an <strong>interactive web tool</strong> for visualizing <strong>COVID-19 statistics</strong> across EU/EEA.</p>
       <ul>
         <li>Integrated <strong>ECDC data</strong> to create <strong>dynamic dashboards</strong>.</li>
         <li>Built with <strong>React.js, D3.js, and Python</strong> for seamless data visualization.</li>
@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td>
-      <h3>📌 StockWave - Dynamic Stock Forecasting</h3>
+      <h3>StockWave - Dynamic Stock Forecasting</h3>
       <p>📈 Built an <strong>LSTM-based stock prediction</strong> system using <strong>Apache Spark</strong>.</p>
       <ul>
         <li><strong>Feature engineering</strong> with <strong>EMA, RSI</strong> to enhance accuracy.</li>
@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td>
-      <h3>📌 Book Store - Web Application</h3>
+      <h3>Book Store - Web Application</h3>
       <p>📚 Developed a <strong>full-stack web app</strong> for book sales & management.</p>
       <ul>
         <li><strong>User authentication</strong> with secure <strong>login & registration</strong>.</li>
