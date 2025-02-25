@@ -38,7 +38,7 @@
 
 <h2>🛠️ Projects</h2>
 
-<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #f9f9f9; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #ffffff; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
   <h3>📊 COVIDStat Visualizer</h3>
   <p>Developed an <strong>interactive web tool</strong> for visualizing <strong>COVID-19 statistics</strong> across EU/EEA.</p>
   <ul>
@@ -49,7 +49,7 @@
   <p>🔗 <a href="https://dataviscourse2024.github.io/group-project-covidstat-visualizer/">Project Link</a></p>
 </div>
 
-<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #f9f9f9; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #ffffff; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
   <h3>📈 StockWave - Dynamic Stock Forecasting</h3>
   <p>Built an <strong>LSTM-based stock prediction</strong> system using <strong>Apache Spark</strong>.</p>
   <ul>
@@ -60,7 +60,7 @@
   <p>🔗 Repo coming soon!</p>
 </div>
 
-<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #f9f9f9; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+<div style="border: 3px solid #ccc; border-radius: 10px; padding: 15px; margin: 20px 0; padding: 20px; background: #ffffff; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
   <h3>📚 Book Store - Web Application</h3>
   <p>Developed a <strong>full-stack web app</strong> for book sales & management.</p>
   <ul>
