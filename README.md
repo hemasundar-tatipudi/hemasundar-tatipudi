@@ -36,6 +36,14 @@
 
 <hr>
 
+<h2>📈 GitHub Stats</h2>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hemasundar-tatipudi&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemasundar-tatipudi&theme=dark" alt="GitHub Streak" />
+</p>
+
+<hr>
+
 <h2>🛠️ Projects</h2>
 
 <h3>📌 COVIDStat Visualizer</h3>
@@ -47,34 +55,18 @@
 </ul>
 <p>🔗 <a href="https://dataviscourse2024.github.io/group-project-covidstat-visualizer/">Project Link</a></p>
 
-<h3>📌 StockWave - Dynamic Stock Forecasting</h3>
-<p>📈 Built an <strong>LSTM-based stock prediction</strong> system using <strong>Apache Spark</strong>.</p>
-<ul>
-<li><strong>Feature engineering</strong> with <strong>EMA, RSI</strong> to enhance accuracy.</li>
-<li>Interactive <strong>GUI</strong> for <strong>real-time visualization & model retraining</strong>.</li>
-<li>Evaluated models with <strong>MSE, RMSE, and R² score</strong>.</li>
-</ul>
-<p>🔗 Repo coming soon!</p>
-
-<h3>📌 Book Store - Web Application</h3>
-<p>📚 Developed a <strong>full-stack web app</strong> for book sales & management.</p>
-<ul>
-<li><strong>User authentication</strong> with secure <strong>login & registration</strong>.</li>
-<li><strong>Search & filter</strong> features for book browsing.</li>
-<li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, <strong>React.js</strong>.</li>
-</ul>
-<p>🔗 Repo coming soon!</p>
-
-<hr>
-
-<h2>🏆 Certifications</h2>
-<p>✔️ <strong>Salesforce Certified Administrator (SCA)</strong> <a href="https://trailhead.salesforce.com/credentials/verification">🔗 Verification</a></p>
-<p>✔️ <strong>Salesforce Certified Platform Developer 1</strong> <a href="https://trailhead.salesforce.com/credentials/verification">🔗 Verification</a></p>
-
 <hr>
 
 <h2>📧 Let's Connect!</h2>
-<p>
+<style>
+    .social-icons img {
+        transition: transform 0.3s ease-in-out;
+    }
+    .social-icons img:hover {
+        transform: scale(1.2);
+    }
+</style>
+<p class="social-icons">
 <a href="https://github.com/hemasundar-tatipudi/"><img align="left" alt="GitHub" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/findmehere-hs/"><img align="left" alt="LinkedIn" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/linkedin.svg" /></a>
 <a href="mailto:hemasundarhs53@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/gmail.svg" /></a>
