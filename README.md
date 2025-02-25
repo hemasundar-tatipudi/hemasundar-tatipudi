@@ -75,7 +75,7 @@
 
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][github]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://github.com/hemasundar-tatipudi/hemasundar-tatipudi/blob/main/assets/icons/gmail.svg" style="background-color: white; padding: 3px; border-radius: 5px;" />][gmail]
 
 [github]: https://github.com/hemasundar-tatipudi/
 [linkedin]: https://www.linkedin.com/in/findmehere-hs/ 
