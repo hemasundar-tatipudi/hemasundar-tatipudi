@@ -73,9 +73,9 @@
 
 <h2>📧 Let's Connect!</h2>
 
-[<img align="left" alt="GitHub" width="22px" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />][github]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="GitHub" width="88px" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />][github]
+[<img align="left" alt="LinkedIn" width="88px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Gmail" width="88px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][gmail]
 
 [github]: https://github.com/hemasundar-tatipudi/
 [linkedin]: https://www.linkedin.com/in/findmehere-hs/ 
