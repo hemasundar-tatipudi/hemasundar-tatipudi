@@ -8,30 +8,30 @@
 
 <h3>Languages</h3>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Apex-1798C1?style=flat&logo=salesforce&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logoColor=black" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Apex-1798C1?style=flat&logoColor=white" style="pointer-events: none;" />
 </p>
 
 <h3>Frameworks & Technologies</h3>
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logoColor=black" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logoColor=white" style="pointer-events: none;" />
 <img src="https://img.shields.io/badge/Pega-0076D6?style=flat" style="pointer-events: none;" />
 </p>
 
 <h3>Tools & Platforms</h3>
 <p>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/ServiceNow-00A300?style=flat&logo=servicenow&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/ServiceNow-00A300?style=flat&logoColor=white" style="pointer-events: none;" />
 </p>
 
 <hr>
