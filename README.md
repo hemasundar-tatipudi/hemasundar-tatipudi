@@ -38,7 +38,7 @@
 
 <h2>🛠️ Projects</h2>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc;">
+<table style="border: none;">
   <tr>
     <td>
       <h3>📊 COVIDStat Visualizer</h3>
@@ -50,10 +50,11 @@
       </ul>
       <p>🔗 <a href="https://dataviscourse2024.github.io/group-project-covidstat-visualizer/">Project Link</a></p>
     </td>
+    
   </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc;">
+<table style="border: none;">
   <tr>
     <td>
       <h3>📈 StockWave - Dynamic Stock Forecasting</h3>
@@ -65,10 +66,11 @@
       </ul>
       <p>🔗 Repo coming soon!</p>
     </td>
+    
   </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc;">
+<table style="border: none;">
   <tr>
     <td>
       <h3>📚 Book Store - Web Application</h3>
@@ -80,6 +82,7 @@
       </ul>
       <p>🔗 Repo coming soon!</p>
     </td>
+    
   </tr>
 </table>
 
