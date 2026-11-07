@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img
@@ -7,55 +9,70 @@
 
 ### Software Engineer
 
-Backend Engineering · Cloud Infrastructure · DevSecOps & Security
+**Backend Engineering · Cloud Infrastructure · DevOps · Security**
+
+Building reliable software, scalable systems, and cloud-native infrastructure.
 
 </div>
 
 ---
 
-### About
+### 👨‍💻 About Me
 
-I'm a software engineer working across backend systems, cloud infrastructure, databases, and application development.
+I'm a software engineer with experience across backend development, cloud infrastructure, databases, and full-stack applications.
 
-I enjoy building scalable systems, simplifying complex engineering problems, and automating the processes behind reliable software.
+My work focuses on designing and developing multi-tenant systems, building REST APIs, optimizing database performance, managing cloud infrastructure, and automating software delivery.
 
-Alongside engineering, I work on information security, cloud security, and SOC 2 compliance as a CISO.
+I enjoy working across the engineering lifecycle, from system design and implementation to deployment, performance, and reliability. I also work on security engineering, integrating secure development practices and cloud security controls into the systems I build.
 
-My background also includes enterprise Salesforce development and frontend engineering.
+My background includes enterprise Salesforce development and frontend engineering, giving me experience across different application architectures and technology stacks.
 
-### What I Do
+### 🛠️ Tech Stack
 
-- **Software Engineering** — Design and build applications, APIs, and backend services.
-- **Cloud & Infrastructure** — Manage cloud environments, containerized workloads, and infrastructure as code.
-- **DevOps** — Automate testing, deployments, and software delivery.
-- **Security** — Implement secure development practices, cloud security controls, and compliance automation.
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | TypeScript, JavaScript, Python, Java, SQL, Apex |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Cloud & Infrastructure** | AWS, Terraform, Kubernetes, Docker |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **DevOps & CI/CD** | GitHub Actions, Azure DevOps, Git |
+| **Security** | DevSecOps, Cloud Security, Secure SDLC |
+| **Enterprise Platforms** | Salesforce, Sales Cloud, Service Cloud |
 
-### Technologies
+### ⚙️ Engineering Focus
 
-| Area | Technologies |
-|------|-------------|
-| Languages | TypeScript, JavaScript, Python, Java, SQL, Apex |
-| Backend | Node.js, Express.js, REST APIs |
-| Frontend | React, Next.js, Tailwind CSS |
-| Cloud & Infrastructure | AWS, Terraform, Kubernetes, Docker |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis |
-| DevOps | GitHub Actions, Azure DevOps, CI/CD |
-| Security | DevSecOps, SOC 2, Cloud Security |
-| Enterprise | Salesforce, Sales Cloud, Service Cloud |
+- **Backend & APIs** — Building maintainable services, multi-tenant architectures, and performant APIs.
+- **Cloud & Infrastructure** — Managing AWS infrastructure, containerized applications, and Infrastructure as Code.
+- **Databases** — Designing schemas, optimizing queries, and managing database migrations.
+- **DevOps & Automation** — Building CI/CD pipelines, automated testing, and deployment workflows.
+- **Security Engineering** — Incorporating security controls, vulnerability detection, and secure development practices.
 
-### Beyond Work
+### 🚀 Interests & Exploration
 
-I'm interested in distributed systems, platform engineering, AI agents, automation, and building tools that solve real-world problems.
+I'm particularly interested in:
 
-I hold a **Master's in Computer Science** from the University of Utah.
+- Distributed systems and backend architecture
+- Cloud-native technologies and platform engineering
+- Infrastructure automation and developer tooling
+- AI agents and intelligent automation
+- Software performance, scalability, and reliability
+
+### 🎓 Education
+
+**Master of Science in Computer Science**  
+University of Utah
+
+**Bachelor of Technology in Computer Science**  
+Lovely Professional University
 
 ---
 
 <div align="center">
 
-**Connect with me**
+### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/findmehere-hs/) · [GitHub](https://github.com/hemasundar-tatipudi) · [Email](mailto:hemasundarhs53@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/findmehere-hs/) · [Email](mailto:hemasundarhs53@gmail.com)
 
 </div>
 
