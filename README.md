@@ -9,8 +9,6 @@
 
 Backend Engineering · Cloud Infrastructure · DevSecOps & Security
 
-[LinkedIn](https://www.linkedin.com/in/findmehere-hs/) · [Email](mailto:hemasundarhs53@gmail.com)
-
 </div>
 
 ---
