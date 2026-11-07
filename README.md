@@ -5,7 +5,7 @@
   alt="Hi, I'm HemaSundar Tatipudi!"
 />
 
-### Software Engineer & CISO
+### Software Engineer
 
 Backend Engineering · Cloud Infrastructure · DevSecOps & Security
 
